@@ -15,7 +15,7 @@ vignette: >
 
 # Underlying Implementation
 
-The underlying C++ implementation wrapped by `webrockets` is the `[easywsclient](https://github.com/dhbaird/easywsclient)`. This implementation was chosen because it is minimial, compiles without additional config on Windows, MacOS and Linux and requires distribution of only two files.
+The underlying C++ implementation wrapped by `webrockets` is the [`easywsclient`](https://github.com/dhbaird/easywsclient). This implementation was chosen because it is minimial, compiles without additional config on Windows, MacOS and Linux and requires distribution of only two files.
 
 # Basic Operation
 The basic pattern usage for `webrockets` is:
